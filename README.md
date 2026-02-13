@@ -10,7 +10,7 @@ Zipped MP3+G/CDG+MP3 to MP4 converter with drag-and-drop GUI written in Python.
 - Select encoder: **NVENC (GPU)** for fast encoding or **libx264 (CPU)** for compatibility.
 - Built-in progress bar and Windows toast notification when done.
 - Standalone executable version available (FFmpeg bundled)
-
+- Renders compact MP4 videos (~25 MB) at 1080p60 with 2,000 kb/s VBR.
 --- 
 
 ## Cool, so how do I use it?
@@ -38,3 +38,16 @@ win10toast (python)
 ffmpeg (executable) 
 
 If using the prebuilt executable, ffmpeg is not required.
+
+---
+
+## Notes
+- Only ZIP files with an MP3 and a CDG file are supported.
+- GPU encoding requires a compatible NVIDIA GPU. Sorry AMD users.
+- Tested with FFmpeg version 8.0.1.
+
+---
+
+## License
+
+This project is licensed under the MIT License
