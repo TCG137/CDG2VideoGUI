@@ -22,8 +22,6 @@ Zipped MP3+G/CDG+MP3 to MP4 converter with drag-and-drop GUI written in Python.
 
 ---
 
-## Usage
-
 ### Running the Python Script
 
 ```bash
