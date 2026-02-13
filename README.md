@@ -2,7 +2,9 @@
 
 Zipped MP3+G/CDG+MP3 to MP4 converter with drag-and-drop GUI written in Python.
 
-[Watch the CDG Demo on YouTube]([https://youtu.be/your-video-id](https://youtu.be/6sXRn59I8F0))
+Watch CDG2VideoGUI in action:
+
+[![Watch Demo on YouTube](https://img.youtube.com/vi/6sXRn59I8F0/0.jpg)](https://youtu.be/6sXRn59I8F0)
 
 ---
 
