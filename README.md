@@ -22,6 +22,12 @@ Zipped MP3+G/CDG+MP3 to MP4 converter with drag-and-drop GUI written in Python.
 
 ---
 
+## Demo ZIP
+
+A small demo ZIP file is included in this repository and in the release so you can see how the tool works without needing your own CDG files.
+
+---
+
 ### Running the Python Script
 
 ```bash
