@@ -15,10 +15,10 @@ Zipped MP3+G/CDG+MP3 to MP4 converter with drag-and-drop GUI written in Python.
 
 ## Cool, so how do I use it?
 
-Drag a ZIP file onto the window.
-Select encoder if needed.
-Wait for the progress bar to finish.
-MP4 will be saved in the same folder as the ZIP.
+- Drag a ZIP file onto the window.
+- Select encoder if needed.
+- Wait for the progress bar to finish.
+- MP4 will be saved in the same folder as the ZIP.
 
 ---
 
