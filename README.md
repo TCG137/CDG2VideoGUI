@@ -34,7 +34,7 @@ Python 3.10+
 
 tkinter
 tkinterdnd2
-win10toast
-ffmpeg
+win10toast (python)
+ffmpeg (executable) 
 
 If using the prebuilt executable, ffmpeg is not required.
